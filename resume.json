@@ -4,7 +4,7 @@
   "personal": {
     "name": "Nicolas Droesch",
     "title": "Étudiant en informatique",
-    "image": "images/joy.jpg",
+    "image": "images/Matete.png",
     "email": "nicolas.droesch.pro@gmail.com",
     "phone": "+33 7 81 62 59 22",
     "website": "",
@@ -121,6 +121,7 @@
       "projects": [
         {
           "title": "Tableau SQL",
+          "thumbnail": "images/mysql.png",
           "description": "Application permettant de reproduire l'affichage d'un tableau SQL"
         },
         {
