@@ -22,7 +22,7 @@ var HTMLProjectBulletDescriptionStart = "<ul class='bullet-list text-left'>";
 var HTMLProjectBulletDescriptionItem = "<li>%data%</li>";
 var HTMLProjectBulletDescriptionEnd = "</ul>";
 
-var HTMLWorkExperienceStart = '<div class="row"><div class="col-md-12"><h2 class="text-muted">Work Experience</h2></div></div><div id="work"></div><hr/>';
+var HTMLWorkExperienceStart = '<div class="row"><div class="col-md-12"><h2 class="text-muted">Experience Professionnel</h2></div></div><div id="work"></div><hr/>';
 var HTMLInstitutionName = '<div class="row"><div class="col-md-12"><h3>%data%</h3></div></div>';
 var HTMLEmploymentDateAndLocation = '<div class="row"><div class="col-md-6 location-text">%location%</div><div class="col-md-6 date-text text-right">%date%</div></div>';
 var HTMLEmployer = '<div class="row"><div class="col-md-12"><a href="%url%" target="_blank"><h3>%employer%</h3></a></div>';
@@ -30,11 +30,11 @@ var HTMLEmployerWithoutUrl = '<div class="row"><div class="col-md-12"><h3>%emplo
 var HTMLJobTitle = '<div class="row"><div class="col-md-12"><p>%data%</p></div>';
 var HTMLEmploymentDates = '<div class="col-md-6 date-text text-right">%data%</div>';
 var HTMLWorkLocation = '<div class="col-md-6 location-text">%data%</div>';
-var HTMLWorkHighlightsTitle = '<div class="row"><div id= "%id%" class="col-md-12 highlights clickable" data-toggle="collapse" data-target="#%targetId%"><span class="glyphicon glyphicon-triangle-right contact-icon"></span><span class="text-bold contact-text">Highlights</span></div></div>';
+var HTMLWorkHighlightsTitle = '<div class="row"><div id= "%id%" class="col-md-12 highlights clickable" data-toggle="collapse" data-target="#%targetId%"><span class="glyphicon glyphicon-triangle-right contact-icon"></span><span class="text-bold contact-text">Détails</span></div></div>';
 var HTMLWorkHighlightsList = '<ul class="collapse bullet-list" id = "%data%"></ul>';
 var HTMLWorkHighlightsListItem = '<li>%data%</li>';
 
-var HTMLEducationStart = ' <div class="row"><div class="col-md-12"><h2 class="text-muted">Education</h2></div></div><div id="education"></div><hr/>';
+var HTMLEducationStart = ' <div class="row"><div class="col-md-12"><h2 class="text-muted">Enseignement</h2></div></div><div id="education"></div><hr/>';
 var HTMLDegree = '<div class="col-md-4 location-text">%data%</div>';
 var HTMLGpa = '<div class="row"><div class="col-md-12 gpa-text text-left">GPA: %data%</div></div>';
 
@@ -42,11 +42,11 @@ var HTMLSocialStart = '<div class="social"><ul id="social" class="social-list"><
 var HTMLSocialItem = '<li ><a href="%link%" target="_blank"><span class="zocial-%network%"></span></a></li>';
 var HTMLSocialEnd = '</ul>';
 
-var HTMLAwardsStart = ' <div class="row"><div class="col-md-12"><h2 class="text-muted">Awards</h2></div></div><div id="awards"></div><hr/>';
+var HTMLAwardsStart = ' <div class="row"><div class="col-md-12"><h2 class="text-muted">Trophé</h2></div></div><div id="awards"></div><hr/>';
 var HTMLAwardTitle = '<div class="row"><div class="col-md-12"><h3>%data%</h3></div></div>';
 var HTMLAwarderAndDate = '<div class="row"><div class="col-md-6 text-left"><p>%awarder%</p></div><div class="col-md-6 date-text text-right">%date%</div></div>';
 var HTMLAwardDetails = '<div class="row collapse award-detail-text" id ="%id%"><div class="col-md-9"><p>%data%</p></div></div>';
-var HTMLAwardDetailsTitle = '<div class="row"><div id= "%id%" class="col-md-12 highlights clickable" data-toggle="collapse" data-target="#%targetId%"><span class="glyphicon glyphicon-triangle-right contact-icon"></span><span class="text-bold contact-text">Details</span></div></div>';
+var HTMLAwardDetailsTitle = '<div class="row"><div id= "%id%" class="col-md-12 highlights clickable" data-toggle="collapse" data-target="#%targetId%"><span class="glyphicon glyphicon-triangle-right contact-icon"></span><span class="text-bold contact-text">Détails</span></div></div>';
 
 
-var HTMLVolunteerStart = '<div class="row"><div class="col-md-12"><h2 class="text-muted">Volunteer Work</h2></div></div><div id="volunteer"></div><hr/>';
+var HTMLVolunteerStart = '<div class="row"><div class="col-md-12"><h2 class="text-muted">Association</h2></div></div><div id="volunteer"></div><hr/>';
