@@ -19,24 +19,24 @@
   },
   "work": [
     {
-      "employer": "seser Company",
-      "location": "Newark, DE",
-      "title": "Job with no highlights",
-      "website": "http://google.com",
-      "dates": "July 2014 - Present",
-      "highlights": []
+      "employer": "Z-Paradise",
+      "location": "STAFFELFELDEN - Distanciel",
+      "title": "Développeur",
+      "dates": "2021",
+      "highlights": [
+        "Ajout de fonctionnalités sur une application mobile",
+        "Conception et développement d'un boitier de surveillance d'aquarium"
+      ]
     },
     {
-      "employer": "DEF Company",
-      "location": "Newark, DE",
-      "title": "Job with no link to employer site",
+      "employer": "École Iris",
+      "location": "Paris",
+      "title": "Stage Tutoré",
       "website": "",
-      "dates": "1900 - 1901",
+      "dates": "2021",
       "highlights": [
-        "Implemented new APIs",
-        "Integrated and tested existing C++ libraries with the google testing framework",
-        "Implemented and improved functionality in the backend as well as the frontend of the system",
-        "Technology: C++, SQL, PHP, ExtJS, Unix"
+        "Développement d'un site web de mise en relation des entreprises et des personnes en recherche d'emploi",
+        "Technologie utilisé : SQL, PHP"
       ]
     },
     {
