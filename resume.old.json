@@ -115,6 +115,36 @@
           ]
         }
         ]
+    },
+    {
+      "title": "Projets Personnels",
+      "projects": [
+        {
+          "title": "Tableau SQL",
+          "link": "https://github.com/navdeepsekhon/AndroidWeatherApp/",
+          "description": "Application permettant de reproduire l'affichage d'un tableau SQL"
+        },
+        {
+          "title": "No gallery, no description(?!)",
+          "thumbnail": "https://raw.githubusercontent.com/navdeepsekhon/PopMovies/master/screenshots/tablet_movie_details_landscape.PNG",
+          "link": "https://github.com/navdeepsekhon/PopMovies"
+        },
+        {
+          "title": "Robot Joy",
+          "thumbnail": "images/joy.jpg",
+          "description": "Développement d'un robot afin de montrer les possibilités de la robotique"
+        },
+        {
+          "title": "Robot InMoov",
+          "thumbnail": "images/InMoov.jpg",
+          "description": "Aide au développement d'un robot Humanoïde permettant d'interagir avec un humain"
+        },
+        {
+          "title": "Robot Spot",
+          "thumbnail": "images/spot.jpg",
+          "description": "Reproduction du robot Spot créé par Boston Dynamics"
+        }
+      ]
     }
    
   ],
