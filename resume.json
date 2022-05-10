@@ -3,28 +3,16 @@
   "hideDesignedBy": false,
   "personal": {
     "name": "Nicolas Droesch",
-    "title": "Software Developer",
-    "email": "sekhon@navdeep.co",
-    "phone": "123-456-7890",
-    "website": "http://www.navdeepsekhon.com",
+    "title": "Étudiant en informatique",
+    "email": "nicolas.droesch.pro@gmail.com",
+    "phone": "+33 7 81 62 59 22",
+    "website": "https://google.com",
     "shortBio": "Bienvenu sur mon portfolio.",
     "location": "Conflans-Sainte-Honorinee",
     "profiles": [
       {
-        "network": "Twitter",
-        "url": "http://twitter.com/navdeepsekhon9"
-      },
-      {
-        "network": "github",
-        "url": "http://decompile.xyz"
-      },
-      {
         "network": "linkedin",
         "url": "https://www.linkedin.com/in/navdeepsekhon"
-      },
-      {
-        "network": "facebook",
-        "url": "facebook.com/navdeepsekhon6"
       }
     ]
   },
@@ -51,67 +39,66 @@
       ]
     },
     {
-      "employer": "University Of Delaware",
-      "location": "Newark, DE",
-      "title": "Job with both link to employer site and highlights",
-      "website": "http://google.com",
-      "dates": "1899 – 1900",
+      "employer": "Palais de justice de la ville de Paris",
+      "location": "Paris",
+      "title": "Technicien informatique",
+      "website": "https://www.tribunal-de-paris.justice.fr/75",
+      "dates": "2019 - 2020",
       "highlights": [
-        "Worked on Model and Simulation of DRAM-PCM Dual Architecture with Dr. Chengmo Yang",
-        "Developed simulators for various parts of the architecture",
-        "Integrated different algorithms",
-        "Tested the algorithms and analyzed the results",
-        "Presented research findings at research seminar"
+        "Installation et configuration de poste informatique",
+        "Gestion de stock",
+        "Développement d'une application de test réseau"
+      ]
+    },
+    {
+      "employer": "Green Cable Network",
+      "location": "Saint-Ouen-l'Aumône",
+      "title": "Technicien d'installation de l'équipement de réseau",
+      "website": "https://www.greencable.fr/",
+      "dates": "2017 - 2019",
+      "highlights": [
+        "Installation et déploiement de câble de réseau",
+        "Installation et déploiement de fibre optique",
+        "Test d'installation de câble de réseau et fibre optique"
       ]
     }
   ],
   "volunteer":[
     {
-      "organization": "Volunteer Org #1",
-      "location": "Newark, DE",
-      "title": "Volunteer without link to website",
+      "organization": "Caliban",
+      "location": "Paris",
+      "title": "Association de robotique",
+      "website": "https://caliban-asso.fr/",
+      "dates": "Depuis 2015",
+      "highlights": [
+        "Développement de divers robots",
+        "Participation a des évènements de robotique",
+        "Maintient de stand de robotique sur des salons afin de promouvoir la robotique"
+      ]
+    },
+    {
+      "organization": "Robonne",
+      "location": "Eaubonne",
+      "title": "Association de robotique",
       "website": "",
-      "dates": "December 2015",
+      "dates": "Depuis 2019",
       "highlights": [
-        "highlight",
-        "highlight"
-      ]
-    },
-    {
-      "organization": "Volunteer Org #2",
-      "location": "Newark, DE",
-      "title": "Volunteer without highlights",
-      "website": "https://www.udel.edu/",
-      "dates": "November 2015",
-      "highlights": [
-        
-      ]
-    },
-    {
-      "organization": "Volunteer Org #3",
-      "location": "Newark, DE",
-      "title": "Volunteer with website and highlights",
-      "website": "https://www.udel.edu/",
-      "dates": "November 2015",
-      "highlights": [
-            "highlight",
-             "highlight"
+        "Développement de robot"
       ]
     }
-    ],
+  ],
   "education": [
       {
-      "institution": "University Of noGPA",
-      "major": "Computer Engineering",
-      "degree": "Masters",
-      "graduationDate": "Fall 2020"
+      "institution": "École IRIS",
+      "major": "Service Informatique aux Organisations",
+      "degree": "Brevet De Technicien Supérieur",
+      "graduationDate": "2020 - 2022"
     },
     {
-      "institution": "University Of Delaware",
-      "major": "Computer Engineering",
-      "degree": "Bachelor",
-      "graduationDate": "Fall 2010",
-      "gpa": "3.7/4.0"
+      "institution": "Lycée Jean Perrin",
+      "major": "Systèmes Numériques",
+      "degree": "Bac Professionnel",
+      "graduationDate": "2018 - 2020"
     }
   ],
   "projectSections": [

@@ -1,4 +1,5 @@
-var RESUME_LOCATION="https://raw.githubusercontent.com/" + GITHUB_USERNAME +"/portfolio-generator/master/resume.json";
+var GITHUB_USERNAME = "NicolasDroesch"
+var RESUME_LOCATION="https://raw.githubusercontent.com/" + GITHUB_USERNAME +"/Portfolio/master/resume.json";
 
 var titleOnBlur = "Miss You :(";
 var titleOnActive = "Portfolio";
